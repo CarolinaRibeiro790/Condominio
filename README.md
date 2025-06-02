@@ -3,6 +3,4 @@
   Sistema de Gerenciamento de Mensalidade de Condomínio (Residência)
 </h1>
 
-## Desenho do banco de dados:
-![Diagrama ER de banco de dados Condominio](https://github.com/user-attachments/assets/d2521c24-b30d-4fd3-8424-604e20fc8310)
 
